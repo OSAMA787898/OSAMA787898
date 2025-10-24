@@ -1,4 +1,4 @@
-
+![logo](https://github.com/OSAMA787898/OSAMA787898/blob/main/GitHub%20Banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Osama Mikrani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
