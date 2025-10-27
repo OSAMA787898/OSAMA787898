@@ -1,6 +1,10 @@
 ![logo](https://github.com/OSAMA787898/OSAMA787898/blob/main/GitHub%20Banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Osama Mikrani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<h3>💻 About Me</h3>
+<p>
+I’m an undergraduate student pursuing a degree in Computer Science and Engineering, passionate about building efficient and innovative software solutions. I have a solid foundation in programming, software development, and problem-solving, with hands-on experience in Java, Python, Machine Learning, Deep Learning, and Full Stack Web Development.
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
