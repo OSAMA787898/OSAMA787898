@@ -113,7 +113,7 @@ I love exploring new technologies, creating impactful projects, and learning con
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/><br><b>Illustrator</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/vscode.svg" width="40" height="40" alt="VS Code"/><br><b>VS Code</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br><b>VS Code</b>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" alt="Postman"/><br><b>Postman</b>
