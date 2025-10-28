@@ -68,7 +68,7 @@ I love exploring new technologies, creating impactful projects, and learning con
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/><br><b>Node.js</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/><br><b>Express.js</b>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="60" height="40" alt="Express.js"/><br><b>Express.js</b>
     </td>
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/><br><b>Jenkins</b>
